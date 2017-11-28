@@ -9,8 +9,8 @@
   "author": "Luca Nils Schmid <npm@ls7.ch>",
   "license": "MIT",
   "dependencies": {
-    "request": "2.83.0",
-    "sax": "1.2.4"
+    "feedparser": "^2.2.4",
+    "request": "2.83.0"
   },
   "devDependencies": {
     "jest": "21.2.1"
