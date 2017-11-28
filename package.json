@@ -1,0 +1,18 @@
+{
+  "name": "wait-for-jenkins",
+  "version": "1.0.0",
+  "description": "Wait for a jenkins build to finish and then exit",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Luca Nils Schmid <npm@ls7.ch>",
+  "license": "MIT",
+  "dependencies": {
+    "request": "2.83.0",
+    "sax": "1.2.4"
+  },
+  "devDependencies": {
+    "jest": "21.2.1"
+  }
+}
