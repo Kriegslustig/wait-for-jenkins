@@ -6,6 +6,9 @@
   "scripts": {
     "test": "jest"
   },
+  "bin": {
+    "wait-for-jenkins": "./index.js"
+  },
   "author": "Luca Nils Schmid <npm@ls7.ch>",
   "license": "MIT",
   "dependencies": {

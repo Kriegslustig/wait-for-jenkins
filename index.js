@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const pollJenkinsFeed = require('./lib')
 
 const JENKINS_BASE_URL = process.env.JENKINS_BASE_URL
